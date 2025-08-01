@@ -49,7 +49,7 @@ I needed something quick, smart, and interactive to quiz me without the pressure
 | Day | Task | Status | Completion Date |
 |-----|------|--------|-----------------|
 | Day 1 | 📖 Data Preprocessing – Clean & Chunk Book | Completed | 31/07/2025 |
-| Day 2 | 🔍 Build TF-IDF Retriever – Search over chunks |  |  |
+| Day 2 | 🔍 Build TF-IDF Retriever – Search over chunks | Completed | 01/08/2025 |
 | Day 3 | 🧠 Create Flask API – Serve chatbot responses |  |  |
 | Day 4 | 💬 Build React Frontend – Chat UI integration |  |  |
 | Day 5 | ✨ Improve with Sentence Embeddings (optional) |  |  |
