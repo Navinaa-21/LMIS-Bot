@@ -50,7 +50,7 @@ I needed something quick, smart, and interactive to quiz me without the pressure
 |-----|------|--------|-----------------|
 | Day 1 | 📖 Data Preprocessing – Clean & Chunk Book | Completed | 31/07/2025 |
 | Day 2 | 🔍 Build TF-IDF Retriever – Search over chunks | Completed | 01/08/2025 |
-| Day 3 | 🧠 Create Flask API – Serve chatbot responses |  |  |
+| Day 3 | 🧠 Create Flask API – Serve chatbot responses | Completed  | 04/08/2025 |
 | Day 4 | 💬 Build React Frontend – Chat UI integration |  |  |
 | Day 5 | ✨ Improve with Sentence Embeddings (optional) |  |  |
 | Day 6 | 🐳 Dockerize and Deploy to Azure |  |  |
